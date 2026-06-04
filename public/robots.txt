@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api
+Disallow: /.next
+
+# Host
+Host: https://muhammad-awais-portfolio.vercel.app
+
+# Sitemaps
+Sitemap: https://muhammad-awais-portfolio.vercel.app/sitemap.xml
