@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Work Experience - Muhammad Awais",
     description:
-      "Full Stack Developer & AI Solutions Engineer with 2.5+ years of experience. Expertise in Next.js, MERN Stack, RAG chatbots, AI agents, and eCommerce platforms.",
+      "Full Stack Developer & AI Solutions Engineer with 1.5+years of experience. Expertise in Next.js, MERN Stack, RAG chatbots, AI agents, and eCommerce platforms.",
     url: "https://muhammadawais.dev/experience",
   },
 };

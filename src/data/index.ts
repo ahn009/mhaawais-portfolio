@@ -41,7 +41,7 @@ export const heroData = {
   name: "Muhammad Awais",
   headline: "AI Solutions Engineer & Full Stack Developer",
   subheadline:
-    "Websites & AI for Authors, Publishers & Businesses. 2.5+ years building production apps — RAG chatbots, AI agents, Next.js platforms, and LLM automation workflows. 15+ client projects shipped.",
+    "Websites & AI for Authors, Publishers & Businesses. 1.5+years building production apps — RAG chatbots, AI agents, Next.js platforms, and LLM automation workflows. 15+ client projects shipped.",
   profileImage: "/images/profile.jpg",
   ctas: {
     primary: { text: "View My Work", href: "/projects" },
@@ -54,7 +54,7 @@ export const heroData = {
 export const aboutData = {
   title: "About Me",
   paragraphs: [
-    "AI Solutions Engineer & Full Stack Developer with 2.5+ years delivering production web applications and intelligent systems. Specialized in Next.js, MERN stack, and LLM-powered automation — RAG chatbots, AI agents, and LangChain/LangGraph pipelines.",
+    "AI Solutions Engineer & Full Stack Developer with 1.5+years delivering production web applications and intelligent systems. Specialized in Next.js, MERN stack, and LLM-powered automation — RAG chatbots, AI agents, and LangChain/LangGraph pipelines.",
     "Niche focus: building digital platforms for authors, publishers, and content creators. 9+ author book websites, 4 publishing agency platforms, and AI-powered tools that replace manual workflows. Clients get fast sites, real analytics, and 24/7 AI assistants — not just pretty pages.",
     "Currently at S-Tech Innovative leading AI feature delivery. Previously built KinderCode (EdTech) for a European client at Byte-Forge Solutions. Graduated BS Computer Science, KFUEIT, April 2025.",
   ],

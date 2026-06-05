@@ -1,6 +1,6 @@
 # Muhammad Awais — AI Solutions Engineer & Full Stack Developer
 
-> Websites & AI for Authors, Publishers & Businesses. 2.5+ years building production apps — RAG chatbots, AI agents, Next.js platforms, and LLM automation workflows. 15+ client projects shipped.
+> Websites & AI for Authors, Publishers & Businesses. 1.5+years building production apps — RAG chatbots, AI agents, Next.js platforms, and LLM automation workflows. 15+ client projects shipped.
 
 ## Identity
 

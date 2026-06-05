@@ -8,7 +8,7 @@ export function generatePersonSchema() {
     email: "awais8640107@gmail.com",
     jobTitle: "Full Stack Developer & AI Solutions Engineer",
     description:
-      "Full Stack Developer & AI Solutions Engineer specializing in Next.js, MERN Stack, RAG chatbots, and AI agents with 2.5+ years of production experience.",
+      "Full Stack Developer & AI Solutions Engineer specializing in Next.js, MERN Stack, RAG chatbots, and AI agents with 1.5+years of production experience.",
     sameAs: [
       "https://linkedin.com/in/muhammad-awais-5b37742ba",
       "https://github.com/mhaawais",

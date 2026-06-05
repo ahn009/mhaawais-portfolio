@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://muhammad-awais-portfolio.vercel.app"),
   title: "Muhammad Awais - Full Stack Developer | AI Solutions Engineer | MERN & Next.js Specialist",
   description:
-    "Professional portfolio of Muhammad Awais, Full Stack Developer & AI Solutions Engineer specializing in Next.js, MERN Stack, RAG chatbots, and AI agents. 2.5+ years of production experience.",
+    "Professional portfolio of Muhammad Awais, Full Stack Developer & AI Solutions Engineer specializing in Next.js, MERN Stack, RAG chatbots, and AI agents. 1.5+years of production experience.",
   verification: {
     google: "qaffrCRgQTIweoljI3L7It6hQEI7tjESpBOZ71gx2hQ",
   },
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     siteName: "Muhammad Awais - Full Stack Developer & AI Solutions Engineer",
     title: "Muhammad Awais - Full Stack Developer | AI Solutions Engineer | MERN & Next.js Specialist",
     description:
-      "Professional portfolio showcasing expertise in Next.js, MERN Stack, RAG chatbots, and AI agents. 2.5+ years of production experience. Available for freelance and full-time opportunities.",
+      "Professional portfolio showcasing expertise in Next.js, MERN Stack, RAG chatbots, and AI agents. 1.5+years of production experience. Available for freelance and full-time opportunities.",
     images: [
       {
         url: "https://muhammad-awais-portfolio.vercel.app/og-image.png",
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
     creator: "@awais8640107",
     title: "Muhammad Awais - Full Stack Developer | AI Solutions Engineer",
     description:
-      "Full Stack Developer & AI Solutions Engineer specializing in Next.js, MERN Stack, RAG chatbots, and AI agents. 2.5+ years of production experience. Available for projects.",
+      "Full Stack Developer & AI Solutions Engineer specializing in Next.js, MERN Stack, RAG chatbots, and AI agents. 1.5+years of production experience. Available for projects.",
     images: ["https://muhammad-awais-portfolio.vercel.app/og-image.png"],
   },
   robots: {
