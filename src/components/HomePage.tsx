@@ -70,7 +70,7 @@ export default function HomePage() {
   }, [mounted]);
 
   const stats = [
-    { number: "3+", label: "Years Experience" },
+    { number: "1.5+", label: "Years Experience" },
     { number: "70+", label: "Projects Completed" },
     { number: "50+", label: "Happy Clients" },
     { number: "130%", label: "Performance Boost" },

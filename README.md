@@ -1,6 +1,6 @@
 # Muhammad Awais - Full Stack Developer Portfolio
 
-A production-grade portfolio website built with Next.js, showcasing 3+ years of full-stack development experience. Optimized for SEO, performance, and recruiter appeal.
+A production-grade portfolio website built with Next.js, showcasing 1.5+ years of full-stack development experience. Optimized for SEO, performance, and recruiter appeal.
 
 ## Key Features
 
@@ -92,7 +92,7 @@ public/
 ### Content Optimization
 - Professional, recruiter-focused copy
 - Clear problem → solution → result descriptions for projects
-- Real metrics (130% performance improvement, 3+ years experience)
+- Real metrics (130% performance improvement, 1.5+ years experience)
 - Technical depth with accessibility for all audiences
 
 ## Accessibility Improvements

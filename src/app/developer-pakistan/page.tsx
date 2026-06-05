@@ -84,12 +84,12 @@ export default function DeveloperPakistanPage() {
           <div className="p-8 rounded-lg bg-slate-800 border border-slate-700 h-fit">
             <h3 className="text-2xl font-bold mb-4">About Muhammad Awais</h3>
             <p className="text-gray-400 mb-4">
-              Based in Pakistan, I am a full-stack developer with 3+ years of professional experience in web development.
+              Based in Pakistan, I am a full-stack developer with 1.5+ years of professional experience in web development.
             </p>
             <div className="space-y-2 text-sm">
               <p><span className="font-bold">Location:</span> Rahim Yar Khan, Pakistan</p>
               <p><span className="font-bold">Specialization:</span> Next.js, React, MERN Stack</p>
-              <p><span className="font-bold">Experience:</span> 3+ years</p>
+              <p><span className="font-bold">Experience:</span> 1.5+ years</p>
               <p><span className="font-bold">Languages:</span> JavaScript, TypeScript, Python</p>
             </div>
           </div>

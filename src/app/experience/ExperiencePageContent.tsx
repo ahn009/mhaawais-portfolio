@@ -249,7 +249,7 @@ export default function ExperiencePageContent() {
         <div className="max-w-6xl mx-auto px-4">
           <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
             {[
-              { number: "3+", label: "Years Experience" },
+              { number: "1.5+", label: "Years Experience" },
               { number: "2", label: "Companies Worked" },
               { number: "50+", label: "Projects Delivered" },
               { number: "130%", label: "Performance Improved" },
