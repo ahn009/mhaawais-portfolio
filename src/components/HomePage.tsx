@@ -71,7 +71,7 @@ export default function HomePage() {
 
   const stats = [
     { number: "1.5+", label: "Years Experience" },
-    { number: "70+", label: "Projects Completed" },
+    { number: "20+", label: "Projects Completed" },
     { number: "50+", label: "Happy Clients" },
     { number: "130%", label: "Performance Boost" },
   ];
